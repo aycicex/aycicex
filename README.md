@@ -2,7 +2,7 @@
 - 👀 I’m interested in Indie game development and level design in Unity,
 - 🌱 I’m currently learning C#,
 - 📫 How to reach me?
-- Instagram: @aycicex.t
+- Instagram: @aycicex.t8
 - Mail: aycicexiletisim@gmail.com
 
 <!---
