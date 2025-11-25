@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @aycicex
-- 👀 I’m interested in Indie game development and level design in Unity,
-- 🌱 I’m currently learning C#, Unity
+- 👀 I’m interested in game/simulation development and level design in Unity,
+- 🌱 I’m currently using C#, Unity
 - 📫 How to reach me?
 - Instagram: @aycicex
 - Mail: aycicexiletisim@gmail.com
+- LinkedIn: Oğuzhan Ayçiçek
 
 <!---
 aycicex/aycicex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
